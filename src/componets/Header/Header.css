@@ -1,0 +1,19 @@
+.headerContainers{
+    height: 80px;
+    background-color: black;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+nav.headerContainers a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 25px;
+}
+.headerContainers a:hover {
+    color: aqua;
+}

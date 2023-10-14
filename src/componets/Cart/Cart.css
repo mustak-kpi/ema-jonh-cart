@@ -1,0 +1,49 @@
+.cart{
+    background:  rgba(255, 153, 0, 0.30);;
+    padding: 25px;
+    width: 380px;
+    height: 480px;
+    position: sticky;
+    top: 0;
+}
+
+.titles{
+    text-align: center;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #1C2B35
+}
+
+ .cart p{
+color: #2A414F;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+ }
+
+ .Grende-total{
+color: #0E161A;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.032px;
+ }
+
+
+ .btn-clear-itmes{
+    width: 95%;
+    display: flex;
+    height: 56px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px auto;
+    background-color: #FF3030;
+    color: white;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+ }
