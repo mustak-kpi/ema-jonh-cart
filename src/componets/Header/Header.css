@@ -17,3 +17,6 @@ nav.headerContainers a{
 .headerContainers a:hover {
     color: aqua;
 }
+.text-white{
+    color: white;
+}
